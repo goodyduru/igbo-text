@@ -4,7 +4,7 @@ with open("README.md", "r", encoding='utf-8') as readme:
     long_description = readme.read()
 
 setuptools.setup(
-    name="igbo-text-goodyduru",
+    name="igbo-text",
     version="0.1.0",
     author="Goodness Duru",
     author_email="goodyduru@gmail.com",
