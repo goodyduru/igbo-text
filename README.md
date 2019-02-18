@@ -1,6 +1,7 @@
 ## What Is Igbo Text
 
-Igbo Text is a library for tokenizing and normalizing texts mainly written in the Igbo Language.
+Igbo Text is a library for tokenizing and normalizing texts mainly written in the Igbo Language.  
+It is an implementation of the tokenization and normalization algorithm written in the paper <a href="https://www.researchgate.net/publication/318501476_Analysis_and_Representation_of_Igbo_Text_Document_for_a_Text-Based_System?enrichId=rgreq-8708d83d73199c40eb075b060e650734-XXX&enrichSource=Y292ZXJQYWdlOzMxODUwMTQ3NjtBUzo1MzkxNTM1MTczNDI3MjBAMTUwNTU1NTYyMzQ1MA%3D%3D&el=1_x_2&_esc=publicationCoverPdf">Analysis and Representation of Igbo Text Document for a Text-Based System</a> by Ifeanyi-Reuben Nkechi J., Ugwu Chidiebere, Adegbola Tunde.
 
 ## Installation
 
