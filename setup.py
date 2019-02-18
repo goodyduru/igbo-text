@@ -5,10 +5,11 @@ with open("README.md", "r", encoding='utf-8') as readme:
 
 setuptools.setup(
     name="igbo-text",
-    version="0.1.0",
+    version="0.1.2",
     author="Goodness Duru",
     author_email="goodyduru@gmail.com",
     description="A python package for tokenizing and normalizing texts mainly written in the Igbo Language",
+    long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/goodyduru/igbo-text",
     packages=setuptools.find_packages(),
