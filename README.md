@@ -14,7 +14,7 @@ $ pip install igbo-text
 ### Normalization
 
 ```
-from igbo-text import IgboText
+from igbo_text import IgboText
 
 # Create IgboText class instance
 igbo_text = IgboText()
@@ -36,7 +36,7 @@ Abbreviations can be left alone by setting remove_abbreviations=True
 ### Tokenization
 
 ```
-from igbo-text import IgboText
+from igbo_text import IgboText
 
 # Create IgboText class instance
 igbo_text = IgboText()
